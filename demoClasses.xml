@@ -1,0 +1,10 @@
+<suite name="smoke">
+	<test name="mtest">
+
+		<classes>
+			<class name="com.tng.basics.OhrmAddEmployee" />
+		</classes>
+
+	</test>
+
+</suite>
