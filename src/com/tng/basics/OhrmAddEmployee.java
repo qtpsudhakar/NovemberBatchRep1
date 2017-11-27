@@ -44,6 +44,7 @@ public class OhrmAddEmployee {
 		driver.findElement(By.id("btnLogin")).click();
 
 		System.out.println("Logged in to application");
+		System.out.println("Remote change2");
 	}
 
 	@Test(dependsOnMethods = "login")
