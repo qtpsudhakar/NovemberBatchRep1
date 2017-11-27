@@ -30,6 +30,7 @@ public class OhrmAddEmployee2 {
 		// goto application
 		driver.get("http://opensource.demo.orangehrmlive.com");
 
+		System.out.println("Open application completed");
 	}
 
 	@Test()
