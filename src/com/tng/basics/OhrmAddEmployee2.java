@@ -34,6 +34,7 @@ public class OhrmAddEmployee2 {
 		System.out.println("this is a new change");
 		
 		System.out.println("this is another change");
+		System.out.println("this is a change in remote");
 	}
 
 	@Test()
