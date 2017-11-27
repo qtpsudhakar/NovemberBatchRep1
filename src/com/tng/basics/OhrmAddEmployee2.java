@@ -31,6 +31,7 @@ public class OhrmAddEmployee2 {
 		driver.get("http://opensource.demo.orangehrmlive.com");
 
 		System.out.println("Open application completed");
+		System.out.println("this is a new change");
 	}
 
 	@Test()
